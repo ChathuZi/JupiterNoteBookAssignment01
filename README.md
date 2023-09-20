@@ -1,4 +1,4 @@
-# JupiterNoteBookAssignment01
+# DataScienceDiary
 Tools for Data Science
 
 # Data Science Tools and Techniques
